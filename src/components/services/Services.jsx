@@ -8,7 +8,7 @@ const Scales = () => {
   return (
     <>
       <section className='Scales mb'>
-        <Back name='Scales' title='Scales -All Scales' cover={img} />
+        <Back name='Scales' title='规模 - 所有规模' cover={img} />
         <div className='featured container'>
           <FeaturedCard />
         </div>

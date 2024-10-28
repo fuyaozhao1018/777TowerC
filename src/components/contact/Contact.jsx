@@ -7,17 +7,17 @@ const Contact = () => {
   return (
     <>
       <section className='contact mb'>
-        <Back name='Contact Us' title='Get Helps & Friendly Support' cover={img} />
+        <Back name='联系我们' title='获取更多的具体信息' cover={img} />
         <div className='container'>
           <form className='shadow'>
-            <h4>Fillup The Form</h4> <br />
+            <h4>填写问询表格</h4> <br />
             <div>
-              <input type='text' placeholder='Name' />
-              <input type='text' placeholder='Email' />
+              <input type='text' placeholder='姓名' />
+              <input type='text' placeholder='电子邮箱' />
             </div>
             <input type='text' placeholder='Subject' />
             <textarea cols='30' rows='10'></textarea>
-            <button>Submit Request</button>
+            <button>提交申请</button>
           </form>
         </div>
       </section>

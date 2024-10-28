@@ -24,7 +24,7 @@ const RecentCard = () => {
               </div>
               <div className='button flex'>
                 <div>
-                  <button className='btn2'>{price}</button> <label htmlFor=''>/month + NNN fees</label>
+                  <button className='btn2'>{price}</button> <label htmlFor=''>/月 + NNN 费用</label>
                 </div>
                 {/* <span>{type}</span> */}
               </div>

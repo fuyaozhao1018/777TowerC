@@ -8,7 +8,7 @@ const Suite = () => {
   return (
     <>
       <section className='Suite-out mb'>
-        <Back name='Suite' title='Suite Grid - Our Offices' cover={img} />
+        <Back name='Suite' title='Suite Grid- 我们的办公室' cover={img} />
         <div className='container recent'>
           <RecentCard />
         </div>

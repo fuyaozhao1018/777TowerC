@@ -8,7 +8,7 @@ const Featured = () => {
     <>
       <section className='featured background'>
         <div className='container'>
-          <Heading title='Featured Scale Options' subtitle='Find All Type of Offices.' />
+          <Heading title='多种规模选择' subtitle='适用于所有公司的办公选择' />
           <FeaturedCard />
         </div>
       </section>
