@@ -1,0 +1,34 @@
+.numbers {
+  background-color: #122947;
+  color: #fff;
+  text-align: center;
+}
+.numbers .heading {
+  display: flex;
+  flex-direction: column-reverse;
+}
+.numbers .heading p {
+  color: #2761ae;
+}
+.numbers .heading h1 {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 400;
+}
+.numbers .icon {
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  margin: auto;
+  margin-top: 50px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4% 50%;
+  font-size: 32px;
+  color: #ffffff;
+}
+.numbers h1 {
+  font-size: 50px;
+}
+.numbers p {
+  color: grey;
+}

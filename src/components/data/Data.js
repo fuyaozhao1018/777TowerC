@@ -107,6 +107,30 @@ export const list = [
     // type: "Condos",
   },
 ]
+export const numbers = [
+  {
+    icon: <i class='fa-solid fa-trophy'></i>,
+    num: "52 层	",
+    name: "楼层高度",
+  },
+  {
+    icon: <i class='fa-solid fa-lightbulb'></i>,
+    num: "1M sqft",
+    name: "总使用面积",
+  },
+  {
+    icon: <i class='fa-solid fa-briefcase'></i>,
+    num: "21274sqft",
+    name: "单层面积",
+  },
+
+  {
+    icon: <i class='fa-solid fa-heart'></i>,
+    num: "César Pelli",
+    name: "AIA Gold Medal得主设计",
+  },
+]
+
 export const awards = [
   {
     icon: <i class='fa-solid fa-trophy'></i>,
@@ -191,10 +215,10 @@ export const amenities = [
   },
   {
     id: 2,
-    name: "整层活动空间 ",
-    // Villas: "2家大型超市",
-    // Apartments: "8家餐厅",
-    // Offices: "7家商店",
+    name: "多功能活动区域 ",
+    Villas: "商务洽谈",
+    Apartments: "社交活动",
+    Offices: "灵活布局",
     cover: "./images/amenities/a2.jpg",
   },
   {
@@ -215,10 +239,10 @@ export const amenities = [
   },
   {
     id: 5,
-    name: " 配套咖啡厅 ",
-    // Villas: "2家大型超市",
-    // Apartments: "8家餐厅",
-    // Offices: "7家商店",
+    name: " 精选咖啡文化空间 ",
+    Villas: "精选豆源",
+    Apartments: "专业工艺",
+    Offices: "丰富口感",
     cover: "./images/amenities/a5.jpg",
   },
   {

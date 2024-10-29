@@ -7,11 +7,13 @@ import Route from "./route/Route"
 import Recent from "./recent/Recent"
 import Team from "./team/Team"
 import Amenities from "./amenities/Amenities"
+import Numbers from "./numbers/Numbers"
 
 const Home = () => {
   return (
     <>
       <Hero />
+      <Numbers />
 
       <Route />
       <Amenities />
@@ -19,7 +21,6 @@ const Home = () => {
       <Recent />
       <Location />
       <Awards />
-
       <Team />
       {/* <Price /> */}
     </>
