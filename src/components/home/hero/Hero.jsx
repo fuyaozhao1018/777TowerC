@@ -7,9 +7,9 @@ const Hero = () => {
     <>
       <section className='hero'>
         <div className='container'>
-          <Heading title='探索洛杉矶新地标 ' />
+          {/* <Heading title='探索洛杉矶新地标 ' /> */}
 
-          {/* <Heading title='探索洛杉矶新地标 ' subtitle='新一代洛杉矶市中心高端写字楼' /> */}
+          <Heading title='探索洛杉矶新地标 ' subtitle='全新无负债业主，尊享2000至350,000平方英尺可租空间' />
 
           {/* <form className='flex'>
             <div className='box'>

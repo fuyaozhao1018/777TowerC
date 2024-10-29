@@ -1,26 +1,26 @@
 export const nav = [
   {
-    text: "主页",
+    text: "Home",
     path: "/",
   },
   {
-    text: "关于我们",
+    text: "About",
     path: "/about",
   },
   {
-    text: "房型规模",
+    text: "Scales",
     path: "/Scales",
   },
   {
-    text: "热门套房",
+    text: "Suite",
     path: "/Suite",
   },
   {
-    text: "配套设施",
+    text: "Ameities",
     path: "/Ameities",
   },
   {
-    text: "联系我们",
+    text: "Contact",
     path: "/contact",
   },
 ]
@@ -233,10 +233,10 @@ export const location = [
 export const amenities = [
   {
     id: 1,
-    name: " 著名设计师César Pelli 打造 ",
-    Villas: "大理石设计",
-    Apartments: "24小时安保",
-    Offices: "前台服务",
+    name: " César Pelli 巧匠设计轩敞大堂",
+    Villas: "精致大理石",
+    Apartments: "全天候安保",
+    Offices: "专业前台服务",
     cover: "./images/amenities/a1.jpg",
   },
   {
@@ -257,10 +257,10 @@ export const amenities = [
   },
   {
     id: 4,
-    name: " 350人规模餐厅 ",
-    // Villas: "2家大型超市",
-    // Apartments: "8家餐厅",
-    // Offices: "7家商店",
+    name: " 精奢餐饮空间 ",
+    Villas: "350人容量",
+    Apartments: "宽敞明亮",
+    Offices: "优雅用餐环境",
     cover: "./images/amenities/a4.jpg",
   },
   {
@@ -273,10 +273,10 @@ export const amenities = [
   },
   {
     id: 6,
-    name: " 六间不同规格会议室 ",
-    // Villas: "2家大型超市",
-    // Apartments: "8家餐厅",
-    // Offices: "7家商店",
+    name: " 现代商务会议室 ",
+    Villas: "灵活多样布局",
+    Apartments: "智能设备支持",
+    Offices: "高雅商务氛围",
     cover: "./images/amenities/a6.jpg",
   },
 ]
