@@ -156,7 +156,7 @@ export const numbers = [
   },
   {
     icon: <i class='fa-solid fa-briefcase'></i>,
-    num: "21274sqft",
+    num: "+/- 19,000 RSF",
     name: "单层面积",
   },
 
