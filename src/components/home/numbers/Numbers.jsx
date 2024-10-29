@@ -6,7 +6,7 @@ import "./numbers.css"
 const Numbers = () => {
   return (
     <>
-      <section className='awards padding'>
+      <section className='numbers padding'>
         <div className='container'>
           <Heading title='洛杉矶写字楼全新地标' subtitle='Our Statics' />
 

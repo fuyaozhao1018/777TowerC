@@ -15,7 +15,6 @@ const Home = () => {
     <>
       <Hero />
       <Numbers />
-
       <Route />
       <Amenities />
       <Featured />
@@ -23,8 +22,8 @@ const Home = () => {
       <Location />
       <Winning />
       <Team />
-      {/* <Price /> */}
-    </>
+
+      </>
   )
 }
 
