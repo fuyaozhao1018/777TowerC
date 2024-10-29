@@ -24,6 +24,30 @@ export const nav = [
     path: "/contact",
   },
 ]
+
+export const winning = [
+  {
+    cover: "../images/winning/awd1.png",
+    name: "整层",
+    total: "12 个单元在租",
+  },
+  {
+    cover: "../images/winning/awd2.png",
+    name: "10000sqft以上",
+    total: "25 个单元在租",
+  },
+  {
+    cover: "../images/winning/awd3.png",
+    name: "5000 到 10000sqft",
+    total: "41 个单元在租",
+  },
+  {
+    cover: "../images/winning/awd4.png",
+    name: "3000 到 5000 sqft",
+    total: "19 个单元在租",
+  },
+
+]
 export const featured = [
   {
     cover: "../images/hero/h1.png",
@@ -32,22 +56,22 @@ export const featured = [
   },
   {
     cover: "../images/hero/h2.png",
-    name: "10000平方英尺以上",
+    name: "10000sqft以上",
     total: "25 个单元在租",
   },
   {
     cover: "../images/hero/h3.png",
-    name: "5000 到 10000平方英尺",
+    name: "5000 到 10000sqft",
     total: "41 个单元在租",
   },
   {
     cover: "../images/hero/h4.png",
-    name: "3000 到 5000 平方英尺",
+    name: "3000 到 5000 sqft",
     total: "19 个单元在租",
   },
   {
     cover: "../images/hero/h5.png",
-    name: "1000 到 3000 平方英尺",
+    name: "1000 到 3000 sqft",
     total: "28 个单元在租",
   },
 ]
@@ -141,7 +165,7 @@ export const awards = [
   },
   {
     icon: <i class='fa-solid fa-briefcase'></i>,
-    num: "21274sqft",
+    num: "+/- 19,000 RSF",
     name: "单层面积",
   },
   {
