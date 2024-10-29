@@ -1,26 +1,26 @@
 export const nav = [
   {
-    text: "home",
+    text: "主页",
     path: "/",
   },
   {
-    text: "about",
+    text: "关于我们",
     path: "/about",
   },
   {
-    text: "Scales",
+    text: "房型规模",
     path: "/Scales",
   },
   {
-    text: "Suite",
+    text: "热门套房",
     path: "/Suite",
   },
-  // {
-  //   text: "pricing",
-  //   path: "/pricing",
-  // },
   {
-    text: "contact",
+    text: "配套设施",
+    path: "/Ameities",
+  },
+  {
+    text: "联系我们",
     path: "/contact",
   },
 ]
@@ -108,6 +108,12 @@ export const list = [
   },
 ]
 export const numbers = [
+
+  {
+    icon: <i class='fa-solid fa-heart'></i>,
+    num: "César Pelli",
+    name: "AIA Gold Medal得主设计",
+  },
   {
     icon: <i class='fa-solid fa-trophy'></i>,
     num: "52 层	",
@@ -124,11 +130,7 @@ export const numbers = [
     name: "单层面积",
   },
 
-  {
-    icon: <i class='fa-solid fa-heart'></i>,
-    num: "César Pelli",
-    name: "AIA Gold Medal得主设计",
-  },
+
 ]
 
 export const awards = [

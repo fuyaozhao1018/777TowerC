@@ -1,7 +1,7 @@
 import React from "react"
-import Heading from "../../common/Heading"
-import { amenities } from "../../data/Data"
+import { amenities } from "../data/Data"
 import "./amenities.css"
+import Heading from "../common/Heading"
 
 const Amenities = () => {
   return (
