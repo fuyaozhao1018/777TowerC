@@ -28,23 +28,29 @@ export const nav = [
 export const winning = [
   {
     cover: "../images/winning/awd1.png",
-    name: "整层",
-    total: "12 个单元在租",
+    name: "USGBC Award",
+    // total: "12 个单元在租",
   },
   {
     cover: "../images/winning/awd2.png",
-    name: "10000sqft以上",
-    total: "25 个单元在租",
+    name: "Wired Gold",
+    // total: "25 个单元在租",
   },
   {
     cover: "../images/winning/awd3.png",
     name: "5000 到 10000sqft",
-    total: "41 个单元在租",
+    // total: "Health Rated 2022",
   },
   {
     cover: "../images/winning/awd4.png",
-    name: "3000 到 5000 sqft",
-    total: "19 个单元在租",
+    name: "GRESB 2023",
+    // total: "19 个单元在租",
+  },
+
+  {
+    cover: "../images/winning/awd1.png",
+    name: "Class A Building",
+    // total: "19 个单元在租",
   },
 
 ]

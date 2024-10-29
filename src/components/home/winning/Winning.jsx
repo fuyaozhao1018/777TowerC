@@ -8,7 +8,7 @@ const Winning = () => {
     <>
       <section className='featured background'>
         <div className='container'>
-          <Heading title='多种规模选择' subtitle='适用于所有公司的办公选择' />
+          <Heading title='777Tower获得多项世界级大奖' subtitle='111111111111111111' />
           <WinningCard />
         </div>
       </section>
