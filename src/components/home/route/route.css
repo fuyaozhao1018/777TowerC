@@ -12,10 +12,14 @@
 .route h1 {
   color: #FFF;
   font-size: 60px;
+  text-shadow: rgb(48, 46, 40) 1px 0 10px;
+
 }
 .route p {
   color: #000000;
   opacity: 0.8;
+  text-shadow: rgb(48, 46, 40) 1px 0 10px;
+
 }
 
 

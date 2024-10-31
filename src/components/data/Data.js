@@ -38,7 +38,7 @@ export const winning = [
   },
   {
     cover: "../images/winning/awd3.png",
-    name: "5000 到 10000sqft",
+    name: "Health Rated 2022",
     // total: "Health Rated 2022",
   },
   {
@@ -49,7 +49,7 @@ export const winning = [
 
   {
     cover: "../images/winning/awd1.png",
-    name: "Class A Building",
+    name: "LABC Award",
     // total: "19 个单元在租",
   },
 
@@ -247,18 +247,18 @@ export const amenities = [
   },
   {
     id: 2,
-    name: "多功能活动区域 ",
-    Villas: "商务洽谈",
-    Apartments: "社交活动",
-    Offices: "灵活布局",
+    name: "整层创意空间 ",
+    Villas: "设计灵感",
+    Apartments: "艺术氛围",
+    Offices: "绝佳视野",
     cover: "./images/amenities/a2.jpg",
   },
   {
     id: 3,
-    name: " 多种活动区域 ",
-    // Villas: "2家大型超市",
-    // Apartments: "8家餐厅",
-    // Offices: "7家商店",
+    name: "多功能活动区域 ",
+    Villas: "商务洽谈",
+    Apartments: "社交活动",
+    Offices: "灵活布局",
     cover: "./images/amenities/a3.jpg",
   },
   {

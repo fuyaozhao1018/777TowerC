@@ -12,10 +12,13 @@
 .hero h1 {
   color: #fff;
   font-size: 60px;
+  text-shadow: rgb(48, 46, 40) 1px 0 10px;
 }
 .hero p {
   color: #fff;
   opacity: 0.8;
+  text-shadow: rgb(48, 46, 40) 1px 0 10px;
+
 }
 form {
   background-color: #fff;
