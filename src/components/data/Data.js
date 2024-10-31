@@ -48,7 +48,7 @@ export const winning = [
   },
 
   {
-    cover: "../images/winning/awd1.png",
+    cover: "../images/winning/awd5.png",
     name: "LABC Award",
     // total: "19 个单元在租",
   },

@@ -9,7 +9,7 @@ const Hero = () => {
         <div className='container'>
           {/* <Heading title='探索洛杉矶新地标 ' /> */}
 
-          <Heading title='探索洛杉矶新地标 ' subtitle='全新无负债业主，尊享2000至350,000平方英尺可租空间' />
+          <Heading title='探索洛杉矶新地标 ' subtitle='业主全资购买，长期持有，租期稳定' />
 
           {/* <form className='flex'>
             <div className='box'>
