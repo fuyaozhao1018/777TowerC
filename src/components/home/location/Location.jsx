@@ -8,7 +8,7 @@ const Location = () => {
     <>
       <section className='location padding'>
         <div className='container'>
-          <Heading title='全新共享办公' subtitle='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.' />
+          <Heading title='全新共享办公' subtitle='全新共享办公理念，为企业提供更多灵活性、最大化成本效益，以及协作机会，适合有灵活办公需求，希望与其他专业人士保持互动的小型初创企业。' />
 
           <div className='content grid3 mtop'>
             {location.map((item, index) => (

@@ -8,7 +8,7 @@ const Amenities = () => {
     <>
       <section className='amenities padding'>
         <div className='container'>
-          <Heading title='便捷大楼配套' subtitle='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.' />
+          <Heading title='便捷大楼配套' subtitle='我们致力于为您提供一个现代化、高效且具品味的商务办公环境。每一处配套设施都经过精心设计，以满足企业在效率与舒适度上的双重需求，助您轻松应对日常工作和社交需求。' />
 
           <div className='content grid3 mtop'>
             {amenities.map((item, index) => (
