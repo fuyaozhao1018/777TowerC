@@ -58,27 +58,27 @@ export const featured = [
   {
     cover: "../images/hero/h1.png",
     name: "整层",
-    total: "12 个单元在租",
+    total: "11 个单元在租",
   },
   {
     cover: "../images/hero/h2.png",
     name: "10000sqft以上",
-    total: "25 个单元在租",
+    total: "13 个单元在租",
   },
   {
     cover: "../images/hero/h3.png",
     name: "5000 到 10000sqft",
-    total: "41 个单元在租",
+    total: "14 个单元在租",
   },
   {
     cover: "../images/hero/h4.png",
     name: "3000 到 5000 sqft",
-    total: "19 个单元在租",
+    total: "11 个单元在租",
   },
   {
     cover: "../images/hero/h5.png",
     name: "1000 到 3000 sqft",
-    total: "28 个单元在租",
+    total: "14 个单元在租",
   },
 ]
 export const list = [
@@ -239,10 +239,10 @@ export const location = [
 export const amenities = [
   {
     id: 1,
-    name: " César Pelli 巧匠设计轩敞大堂",
+    name: " César Pelli 巧匠设计",
     Villas: "精致大理石",
-    Apartments: "全天候安保",
-    Offices: "专业前台服务",
+    Apartments: "全天安保",
+    Offices: "前台服务",
     cover: "./images/amenities/a1.jpg",
   },
   {
@@ -266,7 +266,7 @@ export const amenities = [
     name: " 精奢餐饮空间 ",
     Villas: "350人容量",
     Apartments: "宽敞明亮",
-    Offices: "优雅用餐环境",
+    Offices: "优雅环境",
     cover: "./images/amenities/a4.jpg",
   },
   {
@@ -280,9 +280,9 @@ export const amenities = [
   {
     id: 6,
     name: " 现代商务会议室 ",
-    Villas: "灵活多样布局",
-    Apartments: "智能设备支持",
-    Offices: "高雅商务氛围",
+    Villas: "灵活布局",
+    Apartments: "智能设备",
+    Offices: "商务氛围",
     cover: "./images/amenities/a6.jpg",
   },
 ]
