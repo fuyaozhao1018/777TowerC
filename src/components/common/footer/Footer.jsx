@@ -23,7 +23,7 @@ const Footer = () => {
             <div className='logo'>
               <img src='../images/logo-light.png' alt='' />
               <h2>更多信息？</h2>
-              {/* <p>请联系我们寻找您的下一间办公室</p> */}
+              <p>请联系我们寻找您的下一间办公室</p>
 
               {/* <div className='input flex'>
                 <input type='text' placeholder='电子邮箱' />
