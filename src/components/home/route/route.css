@@ -1,7 +1,7 @@
 .route {
   background-image: url("../../../../public/images/routepic.png");
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: right;
   background-size: cover;
   height: 140vh;
   width: 100%;

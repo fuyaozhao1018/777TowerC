@@ -47,4 +47,11 @@
     height: 150px;
     /* background: rgb(15 28 47 / 30%); */
   }
+  .location label {
+    color: #0a2068;
+    text-shadow: rgb(48, 46, 40) 1px 0 1px;
+    margin-right: 3px;
+  
+    opacity: 0.8;
+  }
 }

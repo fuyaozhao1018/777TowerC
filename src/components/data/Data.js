@@ -1,28 +1,21 @@
 export const nav = [
   {
-    text: "Home",
+    text: "主页",
     path: "/",
   },
   {
-    text: "About",
+    text: "介绍",
     path: "/about",
   },
   {
-    text: "Scales",
+    text: "规模",
     path: "/Scales",
   },
   {
-    text: "Suite",
+    text: "套房",
     path: "/Suite",
   },
-  {
-    text: "Ameities",
-    path: "/Ameities",
-  },
-  {
-    text: "Contact",
-    path: "/contact",
-  },
+
 ]
 
 export const winning = [
