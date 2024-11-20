@@ -1,9 +1,9 @@
 header {
   background-color: #fff;
-  height: 10vh;
+  height: 11vh;
   box-shadow: 0 5px 30px rgb(0 22 84 / 10%);
   padding: 10px 0;
-  text-shadow: rgb(48, 46, 40) 1px 0 1px;
+  text-shadow: rgb(48, 46, 40) 1px 0 0.8px;
 
   position: sticky;
   top: 0;

@@ -233,7 +233,7 @@ export const amenities = [
   {
     id: 1,
     name: " César Pelli 巧匠设计",
-    Villas: "精致大理石",
+    Villas: "大理石",
     Apartments: "全天安保",
     Offices: "前台服务",
     cover: "./images/amenities/a1.jpg",
@@ -257,7 +257,7 @@ export const amenities = [
   {
     id: 4,
     name: " 精奢餐饮空间 ",
-    Villas: "350人容量",
+    Villas: "多种规模",
     Apartments: "宽敞明亮",
     Offices: "优雅环境",
     cover: "./images/amenities/a4.jpg",
