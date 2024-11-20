@@ -30,7 +30,7 @@ const About = () => {
             {/* <button className='btn2'>More About Us</button> */}
           </div>
           <div className='right row'>
-            <img src='./immio.jpg' alt='' />
+            <img src='./a2.jpg' alt='' />
           </div>
         </div>
       </section>
