@@ -1,6 +1,6 @@
 header {
   background-color: #fff;
-  height: 13vh;
+  height: 11vh;
   box-shadow: 0 5px 30px rgb(0 22 84 / 10%);
   padding: 7px 6px;
   text-shadow: rgb(48, 46, 40) 1px 0 0.8px;
@@ -10,7 +10,7 @@ header {
   z-index: 99999;
 }
 header img {
-  width: 160px;
+  width: 150px;
 }
 header a {
   margin-left: 100px;
@@ -39,11 +39,12 @@ header .toggle {
 @media screen and (max-width: 768px) {
   header {
     padding: 0;
-    height: 11vh;
+    height: 12vh;
 
   }
   header img {
-    margin-top: 30px;
+    width:130px;
+    margin-top: 18px;
   }
   header .button {
     display: none;
@@ -57,7 +58,7 @@ header .toggle {
   }
   header .small {
     position: absolute;
-    top: 10vh;
+    top: 11vh;
     left: 0;
     width: 100%;
     background-color: #2761ae;
