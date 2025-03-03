@@ -122,9 +122,9 @@ export const list = [
   },
   {
     id: 6,
-    cover: "../images/list/p-6.jpg",
-    name: "套房 400 ",
-    location: "21274 平方英尺 ⦁	装修完好 ",
+    cover: "../images/list/p-7.jpg",
+    name: "套房 2800 ",
+    location: "12402 平方英尺 ⦁	装修完好 带有家具 ",
     category: "For Rent",
     price: "$850,960",
     // type: "Condos",
@@ -405,7 +405,7 @@ export const price = [
 export const footer = [
   {
     title: "联系方式",
-    text: [{ list: "陈照端 (+1)6505307787" }, { list: "肖润洁 (+1)6198943962" }, { list: "赵扶瑶 (+1)4243434428" }],
+    text: [{ list: "陈照端 (+1)6505307787 zhaoduanchen777@gmail.com" }, { list: "肖润洁 (+1)6198943962 sahanyxiao777@gmail.com" }, { list: "赵扶瑶 (+1)4243434428 chloeezhao777@gmail.com" }],
   },
 
   // {
