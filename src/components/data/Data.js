@@ -405,7 +405,7 @@ export const price = [
 export const footer = [
   {
     title: "联系方式",
-    text: [{ list: "Jordan Chen (+1)6505307787" }, { list: "Sahany Xiao (+1)6198943962" }, { list: "Chloe Zhao (+1)4243434428" }],
+    text: [{ list: "陈照端 (+1)6505307787" }, { list: "肖润洁 (+1)6198943962" }, { list: "赵扶瑶 (+1)4243434428" }],
   },
 
   // {
