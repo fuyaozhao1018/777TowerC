@@ -405,8 +405,9 @@ export const price = [
 export const footer = [
   {
     title: "联系方式",
-    text: [{ list: "propertyoffice777@gmail.com" }, { list: "(+1)9513776489" }],
+    text: [{ list: "Jordan Chen (+1)6505307787" }, { list: "Sahany Xiao (+1)6198943962" }, { list: "Chloe Zhao (+1)4243434428" }],
   },
+
   // {
   //   title: "ALL SECTIONS",
   //   text: [{ list: "Headers" }, { list: "Features" }, { list: "Attractive" }, { list: "Testimonials" }, { list: "Videos" }, { list: "Footers" }],
